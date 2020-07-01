@@ -1,1 +1,121 @@
+{"interactivebook":
+{"Page1":{"Page":"1","Title":"Arctic Fox Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/arctic-fox-Algkalv---CC3-med.jpg","Desc":"Average Weight: 3 to 8kg (6.5-17 lbs)
 
+Average Length: 75 to 110 cm long (2.3-3.5 feet) including a tail of around 30cm (12 inches), 20 to 30cm (9-12 inches) tall at the shoulder, females slightly smaller than males
+
+Breeding Season: Arctic foxes form monogamous pairs through a breeding season (April to May) though often several females will live together in a large and complex den that can be many years old, even centuries. Typically they have litters of 5 to 8 but may be as many as 25, the most of any carnivore. Sometimes young non-breeding foxes will live in the den also and help to raise the pups from the following year.
+
+Estimated world population: - Several hundred thousand, wide fluctuations as a result of varying prey numbers and a rapid ability to reproduce.
+
+Diet: A wide range of foods, the main prey is lemmings, they will hunt and catch other small animals and will also scavenge food from beneath sea-bird colonies on cliffs and left overs from predators such as polar bears. They will take eggs where possible from tundra nesting birds, though are not entirely carnivorous also eating berries and seaweed when available.
+
+A family of foxes can get through several dozen lemmings in a day. They will eat young ringed seals when they are vulnerable in the snow den shortly after they are born in the same manner that they attack lemmings beneath the snow, detecting them by sound and then jumping on and punching through the covering snow layer.
+
+Conservation status: Least Concern.
+
+Habitat and Distribution: The Arctic Fox lives its whole life above the northern tree line in the Arctic tundra, it has found its way to most Arctic islands and is the only mammal native to Iceland. It may be found on the sea-ice in winter as it extends its foraging range. The southern limit of the arctic fox is partially dictated by the presence of red foxes which out-compete arctic foxes in areas where tundra turns to shrubs and trees.
+
+Predators: Polar bears, wolverines, red foxes and golden eagles. They have been and continue to be trapped for their thick winter coats in particular."},
+"Page2":{"Page":"2","Title":"Arctic Woolly Bear Moth - Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/arctic_woolly_bear.jpg","Desc":"The Arctic Woolly Bear Moth is fairly non-descript looking small drab moth. It lives its whole life in the far north of the Arctic on the mainland and northern islands of Canada and around the vegetated coastal strip of Greenland.
+
+It is notable for living a stop-go life whereby the caterpillar takes around seven years to build up enough resources to finally pupate into the adult moth. It was previously thought to take fourteen years to do this, though revised estimates now make seven a typical though not absolute length of time reference.
+
+As a small terrestrial invertebrate the moth has a major problem to deal with in that it is frequently too cold for it to be active. Before it can become active it needs to reach a warm enough temperature for the chemical processes in its cells to enable it to move around and feed, this happens when they get to 15°C-30°C. This temperature is one that is often just not possible for the caterpillar to achieve for the majority of the year, so most of the time it just sits and waits......
+
+This aspect of the lifestyle alone is not actually so unusual, there are other insects that spend several years as a larva and just a few weeks or months as an adult. Dragonflies can spend up to five years as an aquatic larva before emerging while some cicada species can go for thirteen or seventeen years at the larval stage. There are also many other polar invertebrates that have a stop-go lifestyle dependent on the temperature.
+
+Arctic woolly bear caterpillars spend most of their lives actually frozen just thawing out for a short time in the summer.
+
+Only the caterpillar is resistant to freezing, they pupate in their final summer in just two weeks and then the adult moth dies after a short summer of finding a mate and laying eggs. The eggs then hatch quickly so that the cold resistant caterpillars can overwinter. Like many other adult flying insects, the adult moths don't feed at all.
+
+Over its lifetime, they will freeze and thaw seven times (typically)."},
+"Page3":{"Page":"3","Title":"Arctic Hare Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/Edmonton_Leporidae2_-JefferyJ-Nichols-User-Arctic-gnome-CC-Att-SA3-Un-med.jpg","Desc":"Average Weight: 2.5 to 5.5kg (6-12 lbs), up to 7kg (15.5lb), females tend to be larger than males.
+
+Average Length: 48 to 68 cm long (19-28 inches), a short tail of 3-8cm (1-3 inches)
+
+Breeding Season: April to mid-September, usually one or two litters per year with 5 to 6 leverets (baby hares) at a time. A depression in the ground or under rocks for shelter is used as a nest, usually lined with moss, fur and grass. Once born the young are left by the female who only returns to feed them with milk every 18 hours or so, they are fully weaned at 8-9 weeks. The young from one year are ready to breed the following year. Arctic hares tend to disperse during the breeding season, individuals pair up and adopt a mating territory, males may have more than one partner. They have a rapid ability to reproduce and build up numbers.
+
+Estimated world population: - Unknown, widespread species with what are thought to be healthy populations though little monitoring is taking place. Populations undergo cyclic fluctuations.
+
+Diet and Feeding: Mainly herbivorous though can act as an opportunist predator or scavenger, they eat a wide range of foods, mosses, lichens, buds, berries, leaves, roots, woody plants, seaweed and bark depending on the season and availability. During the winter, they will dig through snow to find buried food. They have been reported to scavenge on fish and other meat, they eat snow to get water.
+
+Conservation status: Least Concern.
+
+Habitat and Distribution: The Arctic Hare lives mainly above the northern tree line in the Arctic tundra, though some move below the tree line in winter, they live at altitudes up to 900m. They are not found on sea ice being herbivores dependent on land plants for food.
+
+Predators: Arctic wolf, arctic fox, red fox, grey wolf, lynx, snowy owl, gyrfalcon, ermine and Canadian lynx. The smaller predators such as ermine, snowy owl and arctic fox will usually prey on younger hares. The arctic hare was historically important to Native Americans who hunted them for their fur to make clothing and for food. Such hunting still goes on, though affects only a small amount of the population (around 5%) and probably has no impact on the overall numbers."},
+"Page4":{"Page":"4","Title":"Arctic Tern Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/IMGP4831-med.jpg","Desc":"Average Weight: 95 to 120g (3.3 - 4.2 oz),
+
+Average Length: 33 to 39 cm long (13 - 15.5 inches), wingspan 66 - 77 cm (26 - 30 inches).
+
+Breeding Season: April/May in the Arctic summer, when the young have fledged and become independent, they then fly to Antarctica (including the juveniles) where they winter during the Antarctic summer before flying back again to the Arctic to breed the following year.
+
+Estimated world population: 2 million individuals, 500-900,000 breeding pairs in Europe.
+
+Feeding & diet: Opportunistic feeders, they feed on fish and larger zooplankton such as krill especially when in Antarctica. They catch their prey by seeing them from the air, searching and hovering much like a hawk does on the land and then diving to catch them.
+
+Conservation status: Conservation status - a conservation priority in some parts of the range.
+
+Distribution: Circumpolar around the Arctic including many islands, native to the far north usually found in treeless tundra.
+
+Predators: Nests are vulnerable as they are generally on the ground, arctic foxes, polar bears and mink may take eggs and chicks."},"Page5":{"Page":"5","Title":"Arctic Wolf Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/arctic-wolf-tsaiproject-cc2-med.jpg","Desc":"Average Weight: 32 to 70kg (70-155 lbs)
+
+Average Length: 100 to 180 cm long (3.2-5.9 feet).
+
+Breeding Pattern: As with other kinds of wolves, only the top ranking alpha and beta females in a pack will be allowed to mate and reproduce. This ensures that possibly scarce food resources at the critical time will not be spread too thinly across too many pups which could lead to the death of all or many of them, up to twelve pups are born at a time.
+
+Arctic wolves may give birth in a den dug into the ground or snow where this is possible, though it is not always the case if the ground is frozen too hard. Ready-made dens in rocks, caves or those dug in previous years by other wolves will also be used.
+
+Estimated world population: - 200,000.
+
+Diet and feeding: A wide variety of food sources, the majority is of large herbivores such as moose, caribou, deer, elk, etc. Also smaller prey animals are eaten along with livestock, carrion, and garbage, arctic wolves are opportunistic as are many predators.
+
+Conservation status:  Least Concern.
+
+Distribution: North America and Greenland but not extending into mainland Europe or Asia."},"Page6":{"Page":"6","Title":"Moose / Elk - Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/Bull_Moose-Denali-National-Park-and-Preserve-CC-Att-2-Gen-med.jpg","Desc":"Average Weight: Males - 380-700 kg (840-1540 lbs). Females 200-490 kg (440-1080 lbs).
+
+Average Length: 2.4-3.1m (7.9-10.2ft) head and body, the tail is very short adding only 5-10 cm.
+
+Average height at shoulder: 1.5-2.1m (5-6.5 ft), can reach over 2.1m (6.9 ft).
+
+Antlers: Only the males have antlers, a mature bull has antlers that are typically 1.2 - 2 m wide (3.9-6.1 ft), they are described as being palmate with a flattened region.
+
+Breeding Season: September to October when the males bellow to attract mates and warn off other bulls, the antlers are used to attract mates and repel rivals alike, they are shed shortly after the mating season. After mating the two sexes go their separate ways and the females give birth to one or two calves the following spring. Calves are around 14 kg (30 lbs) at birth, they stay with their mother until the mating season, like many herbivores they are quite well developed when born and will be able to outrun a human at 5 days old.
+
+Estimated world population: - There are thought to be about a million moose in North America and 1.3 million across Eurasia, European populations in particular have increased dramatically in the last 50 years, numbers are increasing almost every where they are found. The highest population density is found in Sweden.
+
+Feeding & diet: Herbivorous, in the summer they will browse on high grasses, shrubs, and trees, it is easier for them to reach upwards than to lower their heads to ground level. In the winter they use their hooves to clear snow away and browse on mosses and lichens, at the end of winter before the land plants have grown much they will often enter water to browse on aquatic plants, both floating and submerged, they may even dive down to reach plants on lake bottoms. They are not grazing animals, but browsers who are much more selective about which plants and which parts of plants they eat, they have a varied and complex diet which is difficult to provide, a reason that moose have never been widely domesticated.
+
+Conservation status: Least Concern.
+
+Distribution: Moose and Elk are found in woodland habitats from the northern tree line southwards where their range is limited by too warm summer temperatures, they range up to about 2500m altitude. They prefer terrain that is a mixture of woodland with openings and bodies of water such as lakes, swamps and wetlands. Their populations are generally declining in the temperate regions of their zone and rising in the Arctic and sub-Arctic.
+
+Predators: Siberian tiger, grey wolf (packs), brown bears, black bears, Orcas (moose sometimes swim between islands) wolverine. Adult moose, especially the bulls are large and formidable as prey, most predators choose to hunt the smaller females, especially if they are with a calf or are weak or ill, even a small moose represents a substantial kill. Moose and Elk are extensively harvested for food by humans, in Europe about half of a population of nearly 5000,000 are harvested annually, even so, the population is growing."},"Page7":{"Page":"7","Title":"Beluga / White Whale Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/Delphinapterus_leucas_Steve-snodgrass-CC2-Att-Gen-med.jpg","Desc":"Weight: up to 1,600kg, from 600kg for adults, males are about 25% larger than females.
+
+Average Length: 2.5 to 6 m long (8.5 - 20 feet)
+
+Reproduction: The breeding s is from February to May, it is thought that belugas have delayed implantation of a few weeks or months, where the development of a fertilized egg is paused according to environmental conditions so that birth occurs at a more favourable time. The length of gestation is not fully known but thought to be over a year, between 12 and possibly up to 15 months. The calves are born between March and September depending on the location, generally over a month or two at any one particular place. Belugas are born dark grey and become paler as they get older becoming white by the time they reach sexual maturity at about 8 years old.
+
+Estimated world population: 200,000 individuals
+
+Feeding & diet: Belugas are diverse feeders, their preferred prey depends on the location of a population though is generally fish such as salmon, herring and arctic cod, they also feed on a variety of other available marine prey such as squid, octopus, shrimps and crabs.
+
+Conservation status: Least concern, it is thought there are some large but uncounted subpopulations, while others may be endangered locally.
+
+Distribution: Circumpolar around much of the Arctic, sometimes individuals are found down to more temperate northern latitudes.
+
+Predators: Polar bears and Orcas (killer whales) predate on belugas across their whole Arctic range."},"Page8":{"Page":"8","Title":"Polar Bear Facts and Adaptations","PicLink":"https://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/Arctic_animals/IMGP4179-med.jpg","Desc":"Average Weight: adult males 350 to 700kg (770 - 1,540 lbs), adult females about half this weight.
+
+Average Length: Length - 2.2 - 2.5m long (7.25 - 8 feet) including a very short tail of 7.5 - 12.5 cm (3 - 5 inches).
+
+Breeding Season: Pups born from November to February in a den in the depths of winter. Usually two pups are born and weigh about 1kg (2lbs.). The pups and mother survive on the mothers fat reserves, the pups are about 15kg (35 lbs.) by the time they emerge. Females breed around once every three years, so in any given year there are three times more breeding males than females.
+
+Estimated world population: - 20,000 to 25,000
+
+Diet and Feeding: The main and preferred food of polar bears is seals which are caught out on the sea-ice. As adults they mostly eat the blubber, but will also eat the meat for protein while still growing. Beyond this, they are opportunist carnivores though will resort to berries, roots or sea-weed if there really is nothing else.
+
+Conservation status: Vulnerable
+
+Distribution: Circumpolar around the Arctic mainly within the Arctic Circle. There are 19 recognised sub-populations.
+
+Predators: None other than man."}}}
