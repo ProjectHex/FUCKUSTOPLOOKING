@@ -1,3 +1,3 @@
 {"interactivebook":{"Page1":{"Page":"1","PicLink":"https://www.distrelec.biz/Web/WebShopImages/landscape_large/ho/to/TQFP-32-Photo.jpg","Desc":"
-~~Intro To Microcontroller And Ardiuno~~
+Intro To Microcontroller And Ardiuno
 "},}}
