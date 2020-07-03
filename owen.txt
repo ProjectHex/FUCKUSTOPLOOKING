@@ -28,4 +28,9 @@ Basic infos about Arduino
 The best arduino board for beginners is Arduino UNO. This is the first board that you need.
 https://www.arduino.cc/en/Main/arduinoBoardUno&gt; - Is The Website That Contains The Basic Informations About Arduino Uno
 Remember to have an Arduino Uno board. To program the Arduino you need to connect the computer to the board by the USB cable. Execute to program it.
-"},"Page5":{"Page":"5","PicLink":"","Desc":""},}}
+"},"Page5":{"Page":"5","PicLink":"","Desc":"
+Go Deeper To Arduino Basics!
+The codes and the diagrams of the electronics and Arduino are in arduino.cc learning.
+Learn more in this website to have amazing learning experience!!
+Arduino is a good way for you to step a longer step in Electronics and Technology in general.
+"},}}
