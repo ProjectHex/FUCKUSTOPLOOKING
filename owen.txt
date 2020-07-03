@@ -6,4 +6,4 @@ You can program the chips and microcontrollers by using the programming language
 - Arduino:
 Arduino is an electronic board used to control the devices and many components. It made up of microcontroller, chips, PWM pin, analog pin,....
 To program the arduino, the user used a program called Arduino IDE.
-"},"Page2":{"Page":"2","PicLink":"","Desc":""},}}
+"},"Page2":{"Page":"2","PicLink":"https://www.getblocky.com/wp-content/uploads/2018/11/Arduino_IDE_-_Blink-1024x853.png","Desc":""},}}
