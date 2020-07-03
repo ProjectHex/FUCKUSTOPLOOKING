@@ -1,3 +1,9 @@
 {"interactivebook":{"Page1":{"Page":"1","PicLink":"https://www.distrelec.biz/Web/WebShopImages/landscape_large/ho/to/TQFP-32-Photo.jpg","Desc":"
 Intro To Microcontroller And Ardiuno
-"},}}
+- Microcontroller: 
+Microcontroller is a component used to control the electronics, programmable and able to connect with other digital parts.
+You can program the chips and microcontrollers by using the programming languages.
+- Arduino:
+Arduino is an electronic board used to control the devices and many components. It made up of microcontroller, chips, PWM pin, analog pin,....
+To program the arduino, the user used a program called Arduino IDE.
+"},"Page2":{"Page":"2","PicLink":"","Desc":""},}}
