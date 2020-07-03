@@ -12,4 +12,20 @@ First, go to Google chrome and search arduino.cc.
 Next, click download and start download for Window or MacBook.
 Then, after finished loading and installed the program open it.
 Finally, open the program and you will see something look like the photo above.
-"},}}
+"},"Page3":{"Page":"3","PicLink":"https://diyi0t.com/wp-content/uploads/2019/06/2019-04-28-18_52_34-example_LED-_-Arduino-1.8.9.png","Desc":"
+First Step To Programming Arduino
+The first program you will code is the program above
+I know that you have no idea about what is it, but don’t worry my friend.
+Explanation:
+Const int ledPin = 13; = Creating an variable called ledPin that has an integer value which is pin digital 13.
+pinMode(ledPin,OUTPUT); means that you make the ledPin to the ledPin as an OUTPUT.
+digitalWrite(ledPin,HIGH); means that you make the voltage to be HIGH.
+digitalWrite(ledPin,LOW); means that you define the output voltage to be LOW.
+delay(200); means that you make a delay time between HIGH voltage and LOW voltage. In this case, 200 millisecond.
+void setup(){ is the class
+"},"Page4":{"Page":"4","PicLink":"https://bizweb.dktcdn.net/100/339/995/products/a000066-front-1-1-1.jpg?v=1547370510357","Desc":"
+Basic infos about Arduino
+The best arduino board for beginners is Arduino UNO. This is the first board that you need.
+https://www.arduino.cc/en/Main/arduinoBoardUno&gt; - Is The Website That Contains The Basic Informations About Arduino Uno
+Remember to have an Arduino Uno board. To program the Arduino you need to connect the computer to the board by the USB cable. Execute to program it.
+"},"Page5":{"Page":"5","PicLink":"","Desc":""},}}
